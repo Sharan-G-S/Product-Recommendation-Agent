@@ -274,12 +274,6 @@ This is an educational project. Feel free to:
 
 This project is licensed under the MIT License - feel free to use it for learning or commercial purposes.
 
-## 🙏 Acknowledgments
-
-- Product images from [Unsplash](https://unsplash.com)
-- Icons and emojis for visual enhancement
-- Inspired by modern e-commerce platforms
-
 ## 📞 Support
 
 For questions or issues:
