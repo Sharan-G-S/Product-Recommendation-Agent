@@ -1,6 +1,6 @@
 # Product Recommendation Agent 🛍️ 
 
-# By Sharan G S
+# By Sharan G S 💚
 
 An intelligent retail recommendation system that suggests products based on user preferences and browsing history using advanced machine learning algorithms.
 
@@ -268,4 +268,3 @@ This is an educational project. Feel free to:
 This project is licensed under the MIT License - feel free to use it for learning or commercial purposes.
 
 # Made with 💚 from Sharan G S
-
