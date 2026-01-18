@@ -1,4 +1,4 @@
-# 🛍️ Product Recommendation Agent
+# Product Recommendation Agent 🛍️ 
 
 # By Sharan G S
 
@@ -263,8 +263,8 @@ This is an educational project. Feel free to:
 - Improve algorithms
 
 **Contact**: sharangs08@gmail.com
-## 📄 License
 
+## 📄 License
 This project is licensed under the MIT License - feel free to use it for learning or commercial purposes.
 
 # Made with 💚 from Sharan G S
