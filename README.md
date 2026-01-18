@@ -254,14 +254,7 @@ Modify CSS variables in `styles.css`:
 
 ## 🤝 Contributing
 
-Contributions are welcome! Some ideas for enhancements:
-
-- Add user authentication and sessions
-- Implement shopping cart persistence
-- Add product image upload functionality
-- Create admin dashboard for product management
-- Implement A/B testing for recommendation algorithms
-- Add email notifications for recommendations
+Contributions are welcome!
 
 This is an educational project. Feel free to:
 - Report issues
@@ -273,16 +266,6 @@ This is an educational project. Feel free to:
 ## 📄 License
 
 This project is licensed under the MIT License - feel free to use it for learning or commercial purposes.
-
-## 📞 Support
-
-For questions or issues:
-1. Check the API endpoints are running correctly
-2. Verify database was initialized with sample data
-3. Check browser console for JavaScript errors
-4. Ensure all dependencies are installed
-
----
 
 # Made with 💚 from Sharan G S
 
