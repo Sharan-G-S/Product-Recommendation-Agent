@@ -2,7 +2,7 @@
 
 # By Sharan G S 💚
 
-An Intelligent retail recommendation system that suggests products based on user preferences and browsing history using advanced machine learning algorithms.
+An Intelligent Retail Recommendation system that suggests products based on user preferences and browsing history using advanced machine learning algorithms.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Flask](https://img.shields.io/badge/Flask-3.0.0-green.svg)
