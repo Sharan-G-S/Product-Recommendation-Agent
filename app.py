@@ -268,7 +268,7 @@ if __name__ == '__main__':
     print("🛍️  Product Recommendation Agent is running!")
     print("="*60)
     print("\n📍 Open your browser and navigate to:")
-    print("   http://localhost:5000")
+    print("   http://localhost:8080")
     print("\n✨ Features:")
     print("   • Browse product catalog")
     print("   • Get personalized recommendations")
@@ -276,4 +276,4 @@ if __name__ == '__main__':
     print("   • Rate products")
     print("\n" + "="*60 + "\n")
     
-    app.run(debug=True, port=5000)
+    app.run(debug=True, port=8080)
